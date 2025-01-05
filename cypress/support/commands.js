@@ -25,4 +25,6 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 /// <reference types="cypress"/>
+
+// added reference to use xpath in all specs files
 /// <reference types="cypress-xpath"/>
