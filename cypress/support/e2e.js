@@ -15,3 +15,8 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+
+//command to use xpath in all specs
+require('cypress-xpath')
+
+//Update e2e.js to use xpath
